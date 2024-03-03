@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "manifest_version":3,
+    "name":"Currency Converter",
+    "description": "This is a Chrome extension built with React and TypeScript that will allow you to choose a currency, and all other currencies will be converted to that currency when you browse Chrome",
+    "action":{
+        "default_popup": "js/index.html",
+        "default_title":"React Chrome Extension"
+    }
+}
